@@ -1,2 +1,2 @@
 # aws_yedek
-asdggga
+nnn
