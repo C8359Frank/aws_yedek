@@ -1,3 +1,1 @@
-# aws_yedek
-nnn
-kh
+# aws_yedek repo
